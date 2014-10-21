@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-just another repository
+Hi Humans!
+
+how is it going there ?
